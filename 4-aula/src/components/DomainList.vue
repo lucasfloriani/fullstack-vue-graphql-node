@@ -46,8 +46,6 @@
 </template>
 
 <script>
-import "bootstrap/dist/css/bootstrap.css";
-import "font-awesome/css/font-awesome.css";
 import AppItemList from "./AppItemList";
 
 export default {
